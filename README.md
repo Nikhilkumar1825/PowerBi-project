@@ -70,7 +70,5 @@ A key challenge was identifying which months generate losses (negative profit), 
 
 ![Dashboard](Dashboard.png)
  
-https://github.com/Nikhilkumar1825/PowerBi-project/blob/main/Dashboard.png
-
 
 
