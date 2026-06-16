@@ -69,7 +69,7 @@ A key challenge was identifying which months generate losses (negative profit), 
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Dashboard_upload](<img width="1344" height="737" alt="Image" src="https://github.com/user-attachments/assets/cdb79a4a-c8f2-4098-8272-194b6ea4ba98" />)
+https://github.com/Nikhilkumar1825/PowerBi-project/blob/main/Dashboard.png
 
 
 
